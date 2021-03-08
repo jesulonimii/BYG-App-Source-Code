@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4796FF</color>
+    <color name="colorPrimaryDark">#4796FF</color>
+    <color name="colorAccent">#F12379</color>
+
+    <color name="bgColorWhite">#272727</color>
+    <color name="bgColor">#121212</color>
+    <color name="blackText">#ffffff</color>
+    <color name="mainColor">#4796FF</color>
+    <color name="menuItemColor">#F12379</color>
+</resources>

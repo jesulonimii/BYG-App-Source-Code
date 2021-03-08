@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">BYG</string>
+    <string name="blogCardDetails">"Read Inspiring and Uplifting Articles From The BYG Family."</string>
+    <string name="counselCardDetails">Need Help?\nAdvice or Guidance?\nSpeak To Us!</string>
+
+
+    <string name="feedText">BYG live feed loading....</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="not_connected">
+        Device Not Connected
+        \n Try:
+        \n   -Checking your data connection and click the refresh button.
+        \n   -Restarting the app.
+        \n   -Restarting your phone.
+
+    </string>
+    <string name="aboutapp">Web App for beautifulyetgodly.com
+        \nWritten and designed by Ericx Co.
+        \n\n\n
+        \nReport Bugs to any of our handles;
+        \nFacebook: @co.ericx
+        \nSend a mail to ericx.group@gmail.com
+        \nVisit http://bit.ly/ericx-co
+        \n\n\n
+        \nImage Credits: TammyJay;
+        \nImage Credits: Milekethephotographer;
+        \n\n\n
+        \nApp Developer: Abodunrin William Jesulonimi (@wericx)
+        \nApp Tests and Review (in production): Anu_Mia
+
+        .</string>
+    <string name="aboutbyg">
+
+       \n Hey there! You made it here, I’m sending you beautiful virtual hugs, I hope you get them.
+
+\n\nMy name is Sissi BYG, I’m an ardent lover of God, a blogger, and a story teller. I came on the online space on a search for answers.
+
+\n\nSo this is it; I’ve been a church girl all my life (I probably say this all the time. Lol), but I realized as much as I was born and brought up in the church (literally), I had a lot of questions.
+
+\n\nI had so many questions I needed answers to. I searched everywhere for the answers, and I got tired. Lol. I got tired and decided to just rest.
+
+\n\nIt was in that season of “rest” I sat with God’s word and poco-a-poco, my eyes began to see the truth in God’s word, that season of my life, I screamed and cried with so much joy, such a thing of joy to finally recognize who I am in Christ and the power I wield (I’m still screaming).
+
+\n\nAlong the line, I got the inspiration to bring answers to burning questions in the hearts of people that might have been like me. We started from Facebook, to Instagram, Twitter, and other social media platforms as God empowers us.
+
+\n\nWe are a budding nation of Jesus stans and it’s so amazing to do this. It’s my prayer and desire that your eyes be opened to the truth and knowledge of God’s word.
+
+\n\nHere’s me inviting and welcoming you to a journey of bliss and unending beauty in God🔥
+
+
+    </string>
+</resources>

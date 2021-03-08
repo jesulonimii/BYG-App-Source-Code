@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="About BYG"
+        android:id="@+id/about"/>
+
+    <item
+        android:title="App">
+
+        <menu>
+            <group>
+            <item
+                android:title="Dark Theme"
+                android:id="@+id/switchTheme"
+                android:icon="@drawable/ic_theme"
+                app:actionLayout="@layout/dark_button"/>
+
+            <item
+                android:title="Info"
+                android:id="@+id/info"
+                android:icon="@drawable/ic_info"/>
+
+            <item
+                android:title="Exit App"
+                android:id="@+id/exit"
+                android:icon="@drawable/ic_exit"/>
+
+            </group>
+        </menu>
+    </item>
+
+
+
+
+</menu>

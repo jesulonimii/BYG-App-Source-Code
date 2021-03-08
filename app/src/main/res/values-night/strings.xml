@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BYG</string>
+    <string name="blogCardDetails">"Read Inspiring and Uplifting Articles From The BYG Family. "</string>
+    <string name="counselCardDetails">Need Help?\nAdvice or Guidance?\nSpeak To Us!</string>
+
+
+    <string name="bibleText">Rather, it should be that of your inner self,
+        the unfading beauty of a gentle and quiet spirit,
+        which is of great worth in God’s sight. - 1Pet3.4</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
